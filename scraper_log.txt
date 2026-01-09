@@ -1,0 +1,351 @@
+2026-01-07 22:55:53,492 - ====== WebDriver manager ======
+2026-01-07 22:55:53,526 - Get LATEST chromedriver version for google-chrome
+2026-01-07 22:55:54,898 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-07 22:55:55,715 - Driver downloading response is 200
+2026-01-07 22:56:09,283 - Get LATEST chromedriver version for google-chrome
+2026-01-07 22:56:09,921 - Get LATEST chromedriver version for google-chrome
+2026-01-07 22:56:10,445 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-07 23:15:28,897 - ====== WebDriver manager ======
+2026-01-07 23:15:28,940 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:15:29,806 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-07 23:15:30,555 - Driver downloading response is 200
+2026-01-07 23:15:35,339 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:15:36,089 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:15:36,579 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-07 23:25:49,199 - ====== WebDriver manager ======
+2026-01-07 23:25:49,224 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:25:50,158 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-07 23:25:50,666 - Driver downloading response is 200
+2026-01-07 23:25:58,355 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:25:59,101 - Get LATEST chromedriver version for google-chrome
+2026-01-07 23:25:59,587 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-08 08:07:16,170 - ====== WebDriver manager ======
+2026-01-08 08:07:16,197 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:07:17,158 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-08 08:07:17,872 - Driver downloading response is 200
+2026-01-08 08:07:18,719 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:07:19,754 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:07:20,244 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-08 08:25:10,696 - ====== WebDriver manager ======
+2026-01-08 08:25:10,738 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:25:11,640 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-08 08:25:12,351 - Driver downloading response is 200
+2026-01-08 08:25:14,595 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:25:15,448 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:25:15,839 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-08 08:39:37,800 - ====== WebDriver manager ======
+2026-01-08 08:39:37,850 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:39:38,439 - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-01-08 08:39:38,851 - Driver downloading response is 200
+2026-01-08 08:39:39,469 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:39:40,118 - Get LATEST chromedriver version for google-chrome
+2026-01-08 08:39:40,503 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-01-08 09:12:18,295 - ====== WebDriver manager ======
+2026-01-08 09:12:18,656 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:12:19,090 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:12:19,675 - There is no [linux64] chromedriver "143.0.7499.192" for browser google-chrome "143.0.7499" in cache
+2026-01-08 09:12:19,675 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:12:20,970 - WebDriver version 143.0.7499.192 selected
+2026-01-08 09:12:20,988 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/linux64/chromedriver-linux64.zip
+2026-01-08 09:12:20,989 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/linux64/chromedriver-linux64.zip
+2026-01-08 09:12:21,668 - Driver downloading response is 200
+2026-01-08 09:12:22,858 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:12:23,668 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192]
+2026-01-08 09:25:44,384 - ====== WebDriver manager ======
+2026-01-08 09:25:44,650 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:25:46,065 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:25:46,987 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 09:40:49,471 - ====== WebDriver manager ======
+2026-01-08 09:40:49,630 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:40:50,682 - Get LATEST chromedriver version for google-chrome
+2026-01-08 09:40:51,672 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 10:38:32,529 - ====== WebDriver manager ======
+2026-01-08 10:38:32,733 - Get LATEST chromedriver version for google-chrome
+2026-01-08 10:38:33,602 - Get LATEST chromedriver version for google-chrome
+2026-01-08 10:38:34,219 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 10:52:32,517 - ====== WebDriver manager ======
+2026-01-08 10:52:32,722 - Get LATEST chromedriver version for google-chrome
+2026-01-08 10:52:33,096 - Get LATEST chromedriver version for google-chrome
+2026-01-08 10:52:33,690 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:00:13,358 - ====== WebDriver manager ======
+2026-01-08 11:00:13,566 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:00:14,154 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:00:14,874 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:08:39,543 - ====== WebDriver manager ======
+2026-01-08 11:08:39,749 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:08:40,238 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:08:40,647 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:15:16,482 - ====== WebDriver manager ======
+2026-01-08 11:15:16,702 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:15:17,143 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:15:18,341 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:22:50,682 - ====== WebDriver manager ======
+2026-01-08 11:22:50,892 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:22:51,322 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:22:51,671 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:24:52,940 - ====== WebDriver manager ======
+2026-01-08 11:24:53,131 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:24:53,710 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:24:54,120 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:34:13,758 - ====== WebDriver manager ======
+2026-01-08 11:34:13,967 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:34:14,333 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:34:14,825 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:34:42,863 - SYSTEM CRASH: Message: 
+
+2026-01-08 11:53:18,864 - ====== WebDriver manager ======
+2026-01-08 11:53:19,148 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:53:20,082 - Get LATEST chromedriver version for google-chrome
+2026-01-08 11:53:20,684 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 11:53:48,973 - SYSTEM CRASH: Message: 
+
+2026-01-08 12:47:23,490 - ====== WebDriver manager ======
+2026-01-08 12:47:23,646 - Get LATEST chromedriver version for google-chrome
+2026-01-08 12:47:25,226 - Get LATEST chromedriver version for google-chrome
+2026-01-08 12:47:26,149 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 12:47:54,468 - SYSTEM CRASH: Message: 
+
+2026-01-08 12:58:39,707 - ====== WebDriver manager ======
+2026-01-08 12:58:39,835 - Get LATEST chromedriver version for google-chrome
+2026-01-08 12:58:40,755 - Get LATEST chromedriver version for google-chrome
+2026-01-08 12:58:41,682 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 12:59:09,659 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:03:46,139 - ====== WebDriver manager ======
+2026-01-08 13:03:46,249 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:03:47,244 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:03:48,165 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:04:18,555 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:05:00,328 - ====== WebDriver manager ======
+2026-01-08 13:05:00,485 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:05:01,598 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:05:02,815 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:05:32,086 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:15:27,487 - ====== WebDriver manager ======
+2026-01-08 13:15:27,705 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:15:28,857 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:15:29,880 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:16:22,798 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:18:38,357 - ====== WebDriver manager ======
+2026-01-08 13:18:38,507 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:18:39,570 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:18:40,580 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:19:18,750 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:21:42,140 - ====== WebDriver manager ======
+2026-01-08 13:21:42,286 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:21:43,320 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:21:44,239 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:22:29,963 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:50:19,936 - ====== WebDriver manager ======
+2026-01-08 13:50:20,167 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:50:21,689 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:50:22,816 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:50:52,648 - SYSTEM CRASH: Message: 
+
+2026-01-08 13:52:20,431 - ====== WebDriver manager ======
+2026-01-08 13:52:20,691 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:52:22,110 - Get LATEST chromedriver version for google-chrome
+2026-01-08 13:52:23,241 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 13:52:53,257 - SYSTEM CRASH: Message: 
+
+2026-01-08 14:43:14,303 - ====== WebDriver manager ======
+2026-01-08 14:43:14,531 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:43:15,520 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:43:16,544 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 14:44:19,893 - SYSTEM CRASH: Message: 
+
+2026-01-08 14:53:40,233 - ====== WebDriver manager ======
+2026-01-08 14:53:40,448 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:53:41,778 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:53:42,704 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 14:54:13,063 - SYSTEM CRASH: Message: 
+
+2026-01-08 14:57:58,315 - ====== WebDriver manager ======
+2026-01-08 14:57:58,524 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:57:59,607 - Get LATEST chromedriver version for google-chrome
+2026-01-08 14:58:00,530 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 14:58:37,198 - SYSTEM CRASH: Message: 
+
+2026-01-08 15:13:12,639 - ====== WebDriver manager ======
+2026-01-08 15:13:12,899 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:13:14,182 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:13:15,047 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:13:59,110 - SYSTEM CRASH: Message: 
+
+2026-01-08 15:20:05,083 - ====== WebDriver manager ======
+2026-01-08 15:20:05,450 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:20:06,503 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:20:07,852 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:21:31,247 - ====== WebDriver manager ======
+2026-01-08 15:21:31,461 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:21:32,548 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:21:33,634 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:21:55,603 - ====== WebDriver manager ======
+2026-01-08 15:21:55,853 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:21:56,930 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:21:57,893 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:22:16,308 - Scraped 1 unique links for Oxford
+2026-01-08 15:22:16,351 - Scraped 2 unique links for Oxford
+2026-01-08 15:22:16,424 - Scraped 3 unique links for Oxford
+2026-01-08 15:22:16,491 - Scraped 4 unique links for Oxford
+2026-01-08 15:22:16,574 - Scraped 5 unique links for Oxford
+2026-01-08 15:22:16,654 - Scraped 6 unique links for Oxford
+2026-01-08 15:22:16,716 - Scraped 7 unique links for Oxford
+2026-01-08 15:22:16,779 - Scraped 8 unique links for Oxford
+2026-01-08 15:22:16,849 - Scraped 9 unique links for Oxford
+2026-01-08 15:22:16,917 - Scraped 10 unique links for Oxford
+2026-01-08 15:23:02,716 - ====== WebDriver manager ======
+2026-01-08 15:23:02,933 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:23:03,835 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:23:04,859 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:23:21,905 - Scraped 1 unique links for Oxford
+2026-01-08 15:23:21,974 - Scraped 2 unique links for Oxford
+2026-01-08 15:23:22,064 - Scraped 3 unique links for Oxford
+2026-01-08 15:23:22,098 - Scraped 4 unique links for Oxford
+2026-01-08 15:23:22,174 - Scraped 5 unique links for Oxford
+2026-01-08 15:23:22,259 - Scraped 6 unique links for Oxford
+2026-01-08 15:23:22,323 - Scraped 7 unique links for Oxford
+2026-01-08 15:23:22,406 - Scraped 8 unique links for Oxford
+2026-01-08 15:23:22,483 - Scraped 9 unique links for Oxford
+2026-01-08 15:23:22,583 - Scraped 10 unique links for Oxford
+2026-01-08 15:45:47,957 - ====== WebDriver manager ======
+2026-01-08 15:45:48,282 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:45:49,601 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:45:50,815 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:46:09,853 - Scraped 10 unique links for Oxford
+2026-01-08 15:59:33,713 - ====== WebDriver manager ======
+2026-01-08 15:59:34,039 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:59:35,661 - Get LATEST chromedriver version for google-chrome
+2026-01-08 15:59:36,692 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 15:59:58,131 - Scraped 10 unique links for University-of-Standford
+2026-01-08 16:00:37,929 - ====== WebDriver manager ======
+2026-01-08 16:00:38,262 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:00:39,568 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:00:40,490 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 16:01:03,721 - Scraped 10 unique links for University of Stanford
+2026-01-08 16:04:23,348 - ====== WebDriver manager ======
+2026-01-08 16:04:23,552 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:04:24,748 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:04:25,668 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 16:04:39,022 - Scraped 10 unique links for University-of-Harvard
+2026-01-08 16:09:05,991 - ====== WebDriver manager ======
+2026-01-08 16:09:06,203 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:09:07,267 - Get LATEST chromedriver version for google-chrome
+2026-01-08 16:09:08,195 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-08 16:09:35,359 - Scraped 10 unique links for University-of-Georgia
+2026-01-09 09:37:19,416 - ====== WebDriver manager ======
+2026-01-09 09:37:19,777 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:37:21,206 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:37:22,229 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:37:25,358 - WebDriver version 143.0.7499.192 selected
+2026-01-09 09:37:25,368 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/linux64/chromedriver-linux64.zip
+2026-01-09 09:37:25,369 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/linux64/chromedriver-linux64.zip
+2026-01-09 09:37:26,216 - Driver downloading response is 200
+2026-01-09 09:37:29,288 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:37:30,569 - Driver has been saved in cache [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192]
+2026-01-09 09:37:38,108 - STARTING SCRAPE FOR: Oxford
+2026-01-09 09:37:40,442 - Finished all pages for Oxford. Total found: 10
+2026-01-09 09:37:40,442 - SYSTEM CRASH: module 'datetime' has no attribute 'now'
+2026-01-09 09:55:02,054 - ====== WebDriver manager ======
+2026-01-09 09:55:02,329 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:55:03,692 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:55:04,707 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 09:55:09,795 - STARTING SCRAPE FOR: Standford
+2026-01-09 09:55:10,130 - Finished all pages for Standford. Total found: 0
+2026-01-09 09:55:10,130 - Empty: No scholarships for Standford
+2026-01-09 09:55:39,921 - ====== WebDriver manager ======
+2026-01-09 09:55:40,134 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:55:41,171 - Get LATEST chromedriver version for google-chrome
+2026-01-09 09:55:42,499 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 09:55:45,569 - STARTING SCRAPE FOR: Oxford
+2026-01-09 09:55:47,619 - Finished all pages for Oxford. Total found: 10
+2026-01-09 09:55:47,619 - SYSTEM CRASH: module 'datetime' has no attribute 'now'
+2026-01-09 10:16:46,275 - ====== WebDriver manager ======
+2026-01-09 10:16:46,526 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:16:47,580 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:16:48,436 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:17:13,735 - STARTING SCRAPE FOR: Oxford
+2026-01-09 10:17:15,819 - Finished all pages for Oxford. Total found: 10
+2026-01-09 10:17:15,824 - Scraped [{'Scholarship Name': 'Oxford-Mary Frances Wagley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Mary-Frances-Wagley-Graduate-Scholarship-University-Of-Oxford=FwhrrCfs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Nuffield-Sir David Butler Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Nuffield-Sir-David-Butler-Graduate-Scholarship-University-Of-Oxford=sLGCvifs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': "Oxford-The Queen's College Graduate Scholarship", 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-The-Queen-s-College-Graduate-Scholarship-University-Of-Oxford=hK9lANTl8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Thatcher Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Thatcher-Graduate-Scholarships-University-Of-Oxford=aVvUnN-h8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Bounden Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Bounden-Graduate-Scholarship-University-Of-Oxford=QSfPzOrd8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford Maintenance Mechanic IV- Campus Services', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Oxford-Maintenance-Mechanic-Iv-Campus-Services-Emory-University=rfocZLnq8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Christopher Ainsley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Christopher-Ainsley-Graduate-Scholarship-University-Of-Oxford=-n3H5DXV8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Uehiro Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Uehiro-Graduate-Scholarships-University-Of-Oxford=TraGPk3N8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Dowding Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Dowding-Graduate-Scholarship-University-Of-Oxford=yrnnW47I8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Chellgren Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Chellgren-Graduate-Scholarship-University-Of-Oxford=hGq9SY7I8BG_5gzEeuBOuw.html'}] unique links for Oxford
+2026-01-09 10:23:30,709 - ====== WebDriver manager ======
+2026-01-09 10:23:30,903 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:23:31,998 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:23:33,223 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:23:56,239 - STARTING SCRAPE FOR: Harvard
+2026-01-09 10:23:56,502 - Finished all pages for Harvard. Total found: 0
+2026-01-09 10:23:56,503 - Empty: No scholarships for Harvard
+2026-01-09 10:42:32,623 - ====== WebDriver manager ======
+2026-01-09 10:42:32,830 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:42:34,146 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:42:35,177 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:42:40,158 - STARTING SCRAPE FOR: Harvard
+2026-01-09 10:42:41,774 - Finished all pages for Harvard. Total found: 10
+2026-01-09 10:42:41,779 - Scraped [{'Scholarship Name': 'Harvard Gender Inequality Postdoctoral Fellowship', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-Gender-Inequality-Postdoctoral-Fellowship-Harvard-University=kT2cYoXc8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Assistant Professor of Immunology ? Dana-Farber Cancer Institute and Harvard Medical School', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Assistant-Professor-Of-Immunology-Dana-Farber-Cancer-Institute-And-Harvard-Medical-School-Dana-Farber-Cancer-Institute=M4VXqhLo8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Executive Director, Bloomberg Harvard City Leadership Initiative', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Executive-Director-Bloomberg-Harvard-City-Leadership-Initiative-Harvard-University=_iDHukLh8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Summer Scholars - Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Summer-Scholars-Harvard-University-Harvard-University=X0JpKurE8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Postdoctoral Research Position in Computational Physics at Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Postdoctoral-Research-Position-In-Computational-Physics-At-Harvard-University-Harvard-University=vrtDmU-d8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Harvard University, Physics, Postdoctoral Fellow', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-University-Physics-Postdoctoral-Fellow-Harvard-University=nM-eaaPS8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'HMS - Research Associate (Cryo-EM Specialist) in Harvard Cryo-EM Center for Structural Biology, Department of Biological Chemistry and Molecular Pharmacology', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Hms-Research-Associate-Cryo-Em-Specialist-In-Harvard-Cryo-Em-Center-For-Structural-Biology-Department-Of-Biological-Chemistry-And-Molecular-Pharmacology-Harvard-University=spgSW0jr8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Postdoctoral Research Positions in the GRASP (Gravity, Spacetime, and Particle Physics) Initiative at Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Postdoctoral-Research-Positions-In-The-Grasp-Gravity-Spacetime-And-Particle-Physics-Initiative-At-Harvard-University-Harvard-University=FvsQENza8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Harvard Forest Soils', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-Forest-Soils-University-Of-New-Hampshire-Main-Campus=ZfN-LiGf8BG_4wzEeuBOuw.html'}, {'Scholarship Name': 'Open now: Harvard Bacteriology Curriculum Fellow', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Open-Now-Harvard-Bacteriology-Curriculum-Fellow-Vanderbilt-University=GzvhCUHP8BG_5gzEeuBOuw.html'}] unique links for Harvard
+2026-01-09 10:45:49,062 - ====== WebDriver manager ======
+2026-01-09 10:45:49,269 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:45:50,462 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:45:51,477 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:46:15,229 - STARTING SCRAPE FOR: Instanbul
+2026-01-09 10:46:15,459 - Finished all pages for Instanbul. Total found: 0
+2026-01-09 10:46:15,459 - Empty: No scholarships for Instanbul
+2026-01-09 10:46:39,839 - ====== WebDriver manager ======
+2026-01-09 10:46:40,118 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:46:41,258 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:46:42,267 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:47:04,921 - STARTING SCRAPE FOR: Standford
+2026-01-09 10:47:05,182 - Finished all pages for Standford. Total found: 0
+2026-01-09 10:47:05,182 - Empty: No scholarships for Standford
+2026-01-09 10:47:44,468 - ====== WebDriver manager ======
+2026-01-09 10:47:44,695 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:47:45,867 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:47:46,983 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:48:10,054 - STARTING SCRAPE FOR: Washington
+2026-01-09 10:48:10,351 - Finished all pages for Washington. Total found: 0
+2026-01-09 10:48:10,352 - Empty: No scholarships for Washington
+2026-01-09 10:48:29,694 - ====== WebDriver manager ======
+2026-01-09 10:48:29,966 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:48:31,016 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:48:32,038 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:48:36,655 - STARTING SCRAPE FOR: Oxford
+2026-01-09 10:48:38,363 - Finished all pages for Oxford. Total found: 10
+2026-01-09 10:48:38,369 - Scraped [{'Scholarship Name': 'Oxford-Mary Frances Wagley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Mary-Frances-Wagley-Graduate-Scholarship-University-Of-Oxford=FwhrrCfs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Nuffield-Sir David Butler Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Nuffield-Sir-David-Butler-Graduate-Scholarship-University-Of-Oxford=sLGCvifs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': "Oxford-The Queen's College Graduate Scholarship", 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-The-Queen-s-College-Graduate-Scholarship-University-Of-Oxford=hK9lANTl8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Thatcher Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Thatcher-Graduate-Scholarships-University-Of-Oxford=aVvUnN-h8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Bounden Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Bounden-Graduate-Scholarship-University-Of-Oxford=QSfPzOrd8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford Maintenance Mechanic IV- Campus Services', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Oxford-Maintenance-Mechanic-Iv-Campus-Services-Emory-University=rfocZLnq8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Christopher Ainsley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Christopher-Ainsley-Graduate-Scholarship-University-Of-Oxford=-n3H5DXV8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Uehiro Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Uehiro-Graduate-Scholarships-University-Of-Oxford=TraGPk3N8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Dowding Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Dowding-Graduate-Scholarship-University-Of-Oxford=yrnnW47I8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Chellgren Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Chellgren-Graduate-Scholarship-University-Of-Oxford=hGq9SY7I8BG_5gzEeuBOuw.html'}] unique links for Oxford
+2026-01-09 10:49:10,164 - ====== WebDriver manager ======
+2026-01-09 10:49:10,380 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:49:11,461 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:49:12,688 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:49:17,131 - STARTING SCRAPE FOR: Harvard
+2026-01-09 10:49:19,692 - Finished all pages for Harvard. Total found: 10
+2026-01-09 10:49:19,695 - Scraped [{'Scholarship Name': 'Harvard Gender Inequality Postdoctoral Fellowship', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-Gender-Inequality-Postdoctoral-Fellowship-Harvard-University=kT2cYoXc8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Assistant Professor of Immunology ? Dana-Farber Cancer Institute and Harvard Medical School', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Assistant-Professor-Of-Immunology-Dana-Farber-Cancer-Institute-And-Harvard-Medical-School-Dana-Farber-Cancer-Institute=M4VXqhLo8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Executive Director, Bloomberg Harvard City Leadership Initiative', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Executive-Director-Bloomberg-Harvard-City-Leadership-Initiative-Harvard-University=_iDHukLh8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Summer Scholars - Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Summer-Scholars-Harvard-University-Harvard-University=X0JpKurE8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Postdoctoral Research Position in Computational Physics at Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Postdoctoral-Research-Position-In-Computational-Physics-At-Harvard-University-Harvard-University=vrtDmU-d8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Harvard University, Physics, Postdoctoral Fellow', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-University-Physics-Postdoctoral-Fellow-Harvard-University=nM-eaaPS8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'HMS - Research Associate (Cryo-EM Specialist) in Harvard Cryo-EM Center for Structural Biology, Department of Biological Chemistry and Molecular Pharmacology', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Hms-Research-Associate-Cryo-Em-Specialist-In-Harvard-Cryo-Em-Center-For-Structural-Biology-Department-Of-Biological-Chemistry-And-Molecular-Pharmacology-Harvard-University=spgSW0jr8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Postdoctoral Research Positions in the GRASP (Gravity, Spacetime, and Particle Physics) Initiative at Harvard University', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Postdoctoral-Research-Positions-In-The-Grasp-Gravity-Spacetime-And-Particle-Physics-Initiative-At-Harvard-University-Harvard-University=FvsQENza8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Harvard Forest Soils', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Harvard-Forest-Soils-University-Of-New-Hampshire-Main-Campus=ZfN-LiGf8BG_4wzEeuBOuw.html'}, {'Scholarship Name': 'Open now: Harvard Bacteriology Curriculum Fellow', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Open-Now-Harvard-Bacteriology-Curriculum-Fellow-Vanderbilt-University=GzvhCUHP8BG_5gzEeuBOuw.html'}] unique links for Harvard
+2026-01-09 10:50:04,217 - ====== WebDriver manager ======
+2026-01-09 10:50:04,434 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:50:05,632 - Get LATEST chromedriver version for google-chrome
+2026-01-09 10:50:06,650 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 10:50:29,204 - STARTING SCRAPE FOR: Georgia
+2026-01-09 10:50:29,498 - Finished all pages for Georgia. Total found: 0
+2026-01-09 10:50:29,498 - Empty: No scholarships for Georgia
+2026-01-09 11:09:20,158 - ====== WebDriver manager ======
+2026-01-09 11:09:20,372 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:09:21,378 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:09:22,708 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 11:09:56,214 - STARTING SCRAPE FOR: Standford
+2026-01-09 11:09:56,507 - Finished all pages for Standford. Total found: 0
+2026-01-09 11:09:56,507 - Empty: No scholarships for Standford
+2026-01-09 11:36:27,213 - ====== WebDriver manager ======
+2026-01-09 11:36:27,436 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:36:28,486 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:36:29,509 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 11:36:56,720 - STARTING SCRAPE FOR: Oxford
+2026-01-09 11:36:58,821 - Finished all pages for Oxford. Total found: 10
+2026-01-09 11:36:58,825 - Scraped [{'Scholarship Name': 'Oxford-Mary Frances Wagley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Mary-Frances-Wagley-Graduate-Scholarship-University-Of-Oxford=FwhrrCfs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Nuffield-Sir David Butler Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Nuffield-Sir-David-Butler-Graduate-Scholarship-University-Of-Oxford=sLGCvifs8BG_5wzEeuBOuw.html'}, {'Scholarship Name': "Oxford-The Queen's College Graduate Scholarship", 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-The-Queen-s-College-Graduate-Scholarship-University-Of-Oxford=hK9lANTl8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Thatcher Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Thatcher-Graduate-Scholarships-University-Of-Oxford=aVvUnN-h8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Bounden Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Bounden-Graduate-Scholarship-University-Of-Oxford=QSfPzOrd8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford Maintenance Mechanic IV- Campus Services', 'URL': 'https://scholarshipdb.net/jobs-in-United-States/Oxford-Maintenance-Mechanic-Iv-Campus-Services-Emory-University=rfocZLnq8BG_5wzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Christopher Ainsley Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Christopher-Ainsley-Graduate-Scholarship-University-Of-Oxford=-n3H5DXV8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Uehiro Graduate Scholarships', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Uehiro-Graduate-Scholarships-University-Of-Oxford=TraGPk3N8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Dowding Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Dowding-Graduate-Scholarship-University-Of-Oxford=yrnnW47I8BG_5gzEeuBOuw.html'}, {'Scholarship Name': 'Oxford-Chellgren Graduate Scholarship', 'URL': 'https://scholarshipdb.net/scholarships-in-United-Kingdom/Oxford-Chellgren-Graduate-Scholarship-University-Of-Oxford=hGq9SY7I8BG_5gzEeuBOuw.html'}] unique links for Oxford
+2026-01-09 11:38:41,815 - ====== WebDriver manager ======
+2026-01-09 11:38:42,025 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:38:43,411 - Get LATEST chromedriver version for google-chrome
+2026-01-09 11:38:44,268 - Driver [/home/chol/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver] found in cache
+2026-01-09 11:38:51,034 - STARTING SCRAPE FOR: Standford
+2026-01-09 11:38:51,379 - Finished all pages for Standford. Total found: 0
+2026-01-09 11:38:51,379 - Empty: No scholarships for Standford
